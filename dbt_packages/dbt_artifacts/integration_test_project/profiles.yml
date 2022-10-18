@@ -1,0 +1,45 @@
+# HEY! This file is used in the dbt-artifacts integrations tests with GitHub Actions.
+# You should __NEVER__ check credentials into version control. Thanks for reading :)
+
+config:
+    send_anonymous_usage_stats: False
+    use_colors: True
+
+dbt_artifacts:
+  target: snowflake
+  outputs:
+    snowflake:
+      type: snowflake
+      account: "{{ env_var('DBT_ENV_SECRET_SNOWFLAKE_TEST_ACCOUNT') }}"
+      user: "{{ env_var('DBT_ENV_SECRET_SNOWFLAKE_TEST_USER') }}"
+      password: "{{ env_var('DBT_ENV_SECRET_SNOWFLAKE_TEST_PASSWORD') }}"
+      role: "{{ env_var('DBT_ENV_SECRET_SNOWFLAKE_TEST_ROLE') }}"
+      database: "{{ env_var('DBT_ENV_SECRET_SNOWFLAKE_TEST_DATABASE') }}"
+      warehouse: "{{ env_var('DBT_ENV_SECRET_SNOWFLAKE_TEST_WAREHOUSE') }}"
+      schema: dbt_artifacts_test_commit_{{ env_var('GITHUB_SHA_OVERRIDE', '') if env_var('GITHUB_SHA_OVERRIDE', '') else env_var('GITHUB_SHA') }}
+      threads: 8
+    databricks:
+      type: databricks
+      schema: dbt_artifacts_test_commit_{{ env_var('GITHUB_SHA_OVERRIDE', '') if env_var('GITHUB_SHA_OVERRIDE', '') else env_var('GITHUB_SHA') }}
+      host: "{{ env_var('DBT_ENV_SECRET_DATABRICKS_HOST') }}"
+      http_path: "{{ env_var('DBT_ENV_SECRET_DATABRICKS_HTTP_PATH') }}"
+      token: "{{ env_var('DBT_ENV_SECRET_DATABRICKS_TOKEN') }}"
+      threads: 8
+    spark:
+      type: spark
+      method: odbc
+      schema: dbt_artifacts_test_commit_spark_{{ env_var('GITHUB_SHA_OVERRIDE', '') if env_var('GITHUB_SHA_OVERRIDE', '') else env_var('GITHUB_SHA') }}
+      host: "{{ env_var('DBT_ENV_SECRET_DATABRICKS_HOST') }}"
+      driver: "{{ env_var('DBT_ENV_SPARK_DRIVER_PATH') }}"
+      endpoint: "{{ env_var('DBT_ENV_SPARK_ENDPOINT') }}"
+      token: "{{ env_var('DBT_ENV_SECRET_DATABRICKS_TOKEN') }}"
+      threads: 8
+    bigquery:
+      type: bigquery
+      method: oauth
+      project: "{{ env_var('DBT_ENV_SECRET_GCP_PROJECT') }}"
+      dataset: dbt_artifacts_test_commit_{{ env_var('GITHUB_SHA_OVERRIDE', '') if env_var('GITHUB_SHA_OVERRIDE', '') else env_var('GITHUB_SHA') }}
+      threads: 8
+      timeout_seconds: 300
+      priority: interactive
+      retries: 1

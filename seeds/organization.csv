@@ -1,0 +1,476 @@
+"code","division","directorate"
+0,"",""
+10000,"",National Science Board
+20000,"",Office Of Inspector General
+20100,"",Office Of Inspector General
+20200,"",Office Of Inspector General
+1000000,Office Of The Director,Office Of The Director
+1000004,Office Of The Director,Office Of The Director
+1010000,Office Of The Director,General Counsel
+1020002,Office Of The Director,Office of Polar Programs
+1020101,Office Of The Director,Office of Polar Programs
+1020301,Office Of The Director,Office of Polar Programs
+1020302,Office Of The Director,Office of Polar Programs
+1020303,Office Of The Director,Office of Polar Programs
+1020304,Office Of The Director,Office of Polar Programs
+1020305,Office Of The Director,Office of Polar Programs
+1020306,Office Of The Director,Office of Polar Programs
+1020307,Office Of The Director,Office of Polar Programs
+1020401,Office Of The Director,Office of Polar Programs
+1030000,Office Of The Director,""
+1030100,Office Of The Director,""
+1030700,Office Of The Director,""
+1030701,Office Of The Director,""
+1030801,Office Of The Director,""
+1030901,Office Of The Director,""
+1030902,Office Of The Director,""
+1030903,Office Of The Director,""
+1030904,Office Of The Director,""
+1030906,Office Of The Director,""
+1030907,Office Of The Director,""
+1040000,Office Of The Director,Office of Science & Technology Infrastructure
+1050000,Office Of The Director,Office Of Legislative & Public Affairs
+1050002,Office Of The Director,Office Of Legislative & Public Affairs
+1050300,Office Of The Director,Office Of Legislative & Public Affairs
+1060000,Office Of The Director,Office of Integrative Activities
+1060002,Office Of The Director,Office of Integrative Activities
+1060100,Office Of The Director,Office of Integrative Activities
+1060103,Office Of The Director,Office of Integrative Activities
+1060300,Office Of The Director,Office of Integrative Activities
+1060400,Office Of The Director,Office of Integrative Activities
+1070000,Office Of The Director,Office Of Diversity and Inclusion
+1070001,Office Of The Director,Office Of Diversity and Inclusion
+1070030,Office Of The Director,Office Of Diversity and Inclusion
+1070032,Office Of The Director,Office Of Diversity and Inclusion
+1070033,Office Of The Director,Office Of Diversity and Inclusion
+1070050,OFFICE OF THE DIRECTOR,Office of Diversity and Inclusion
+1070400,Office Of The Director,Office Of Diversity and Inclusion
+1070600,Office Of The Director,Office Of Diversity and Inclusion
+1070605,Office Of The Director,Office Of Diversity and Inclusion
+1080000,Office Of The Director,Office of Planning and Assessment
+1080002,Office Of The Director,Office of Planning and Assessment
+1080100,Office Of The Director,Office of Planning and Assessment
+1080104,Office Of The Director,Office of Planning and Assessment
+1080709,Office Of The Director,Office of Planning and Assessment
+1090000,Office Of The Director,Office Of Internatl Science &Engineering
+1090500,Office Of The Director,Office Of Internatl Science &Engineering
+1090600,Office Of The Director,Office Of Internatl Science &Engineering
+1090900,Office Of The Director,Office Of Internatl Science &Engineering
+1120000,Office Of The Director,EPSCoR
+2000000,Office Of Information & Resource Mgmt,Office Of Information & Resource Mgmt
+2000007,Office Of Information & Resource Mgmt,Office Of Information & Resource Mgmt
+2030000,Office Of Information & Resource Mgmt,""
+2040000,Office Of Information & Resource Mgmt,Division Of Human Resource Management
+2040003,Office Of Information & Resource Mgmt,Division Of Human Resource Management
+2040300,Office Of Information & Resource Mgmt,Division Of Human Resource Management
+2040400,Office Of Information & Resource Mgmt,Division Of Human Resource Management
+2040405,Office Of Information & Resource Mgmt,Division Of Human Resource Management
+2040801,Office Of Information & Resource Mgmt,Division Of Human Resource Management
+2060000,Office Of Information & Resource Mgmt,Division Of Administrative Services
+2060100,Office Of Information & Resource Mgmt,Division Of Administrative Services
+2060300,Office Of Information & Resource Mgmt,Division Of Administrative Services
+2060500,Office Of Information & Resource Mgmt,Division Of Administrative Services
+2090000,Office Of Information & Resource Mgmt,Division Of Information Systems
+2090003,Office Of Information & Resource Mgmt,Division Of Information Systems
+3000000,Direct For Mathematical & Physical Scien,Direct For Mathematical & Physical Scien
+3010000,Direct For Mathematical & Physical Scien,Division Of Physics
+3010100,Directorate for Mathematical & Physical Sciences,Division of Physics
+3010200,Direct For Mathematical & Physical Scien,Division Of Physics
+3010300,Direct For Mathematical & Physical Scien,Division Of Physics
+3010400,Direct For Mathematical & Physical Scien,Division Of Physics
+3010500,Direct For Mathematical & Physical Scien,Division Of Physics
+3010600,Direct For Mathematical & Physical Scien,Division Of Physics
+3010700,Direct For Mathematical & Physical Scien,Division Of Physics
+3010800,Direct For Mathematical & Physical Scien,Division Of Physics
+3020000,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3020100,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3020101,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3020102,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3020200,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3020203,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3020400,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3020414,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3020415,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3020416,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3020417,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3020419,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3020495,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3020500,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3020518,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3020543,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3020600,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3020611,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3020641,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3020645,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3020646,Direct For Mathematical & Physical Scien,Division Of Astronomical Sciences
+3030200,Direct For Mathematical & Physical Scien,""
+3030301,Direct For Mathematical & Physical Scien,""
+3030303,Direct For Mathematical & Physical Scien,""
+3030400,Direct For Mathematical & Physical Scien,""
+3030502,Direct For Mathematical & Physical Scien,""
+3030600,Direct For Mathematical & Physical Scien,""
+3040000,Direct For Mathematical & Physical Scien,Division Of Mathematical Sciences
+3040100,Direct For Mathematical & Physical Scien,Division Of Mathematical Sciences
+3040101,Direct For Mathematical & Physical Scien,Division Of Mathematical Sciences
+3040102,Direct For Mathematical & Physical Scien,Division Of Mathematical Sciences
+3040103,Direct For Mathematical & Physical Scien,Division Of Mathematical Sciences
+3040104,Direct For Mathematical & Physical Scien,Division Of Mathematical Sciences
+3040105,Direct For Mathematical & Physical Scien,Division Of Mathematical Sciences
+3040106,Direct For Mathematical & Physical Scien,Division Of Mathematical Sciences
+3040107,Direct For Mathematical & Physical Scien,Division Of Mathematical Sciences
+3040108,Direct For Mathematical & Physical Scien,Division Of Mathematical Sciences
+3040109,Direct For Mathematical & Physical Scien,Division Of Mathematical Sciences
+3040200,Direct For Mathematical & Physical Scien,Division Of Mathematical Sciences
+3040206,Direct For Mathematical & Physical Scien,Division Of Mathematical Sciences
+3040300,Direct For Mathematical & Physical Scien,Division Of Mathematical Sciences
+3040600,Direct For Mathematical & Physical Scien,Division Of Mathematical Sciences
+3040901,Direct For Mathematical & Physical Scien,Division Of Mathematical Sciences
+3040902,Direct For Mathematical & Physical Scien,Division Of Mathematical Sciences
+3060000,Direct For Mathematical & Physical Scien,MPS Multidisciplinary Activities
+3070000,Direct For Mathematical & Physical Scien,Division Of Materials Research
+3070001,Direct For Mathematical & Physical Scien,Division Of Materials Research
+3070002,Direct For Mathematical & Physical Scien,Division Of Materials Research
+3070003,Direct For Mathematical & Physical Scien,Division Of Materials Research
+3070004,Direct For Mathematical & Physical Scien,Division Of Materials Research
+3070005,Direct For Mathematical & Physical Scien,Division Of Materials Research
+3070006,Direct For Mathematical & Physical Scien,Division Of Materials Research
+3070007,Direct For Mathematical & Physical Scien,Division Of Materials Research
+3070009,Direct For Mathematical & Physical Scien,Division Of Materials Research
+3070010,Direct For Mathematical & Physical Scien,Division Of Materials Research
+3070011,Direct For Mathematical & Physical Scien,Division Of Materials Research
+3070012,Direct For Mathematical & Physical Scien,Division Of Materials Research
+3070013,Direct For Mathematical & Physical Scien,Division Of Materials Research
+3070200,Direct For Mathematical & Physical Scien,Division Of Materials Research
+3070300,Direct For Mathematical & Physical Scien,Division Of Materials Research
+3070400,Direct For Mathematical & Physical Scien,Division Of Materials Research
+3070600,Direct For Mathematical & Physical Scien,Division Of Materials Research
+3070603,Direct For Mathematical & Physical Scien,Division Of Materials Research
+3070700,Direct For Mathematical & Physical Scien,Division Of Materials Research
+3070800,Direct For Mathematical & Physical Scien,Division Of Materials Research
+3090000,Direct For Mathematical & Physical Scien,Division Of Chemistry
+3090002,Direct For Mathematical & Physical Scien,Division Of Chemistry
+3090003,Direct For Mathematical & Physical Scien,Division Of Chemistry
+3090004,Direct For Mathematical & Physical Scien,Division Of Chemistry
+3090005,Direct For Mathematical & Physical Scien,Division Of Chemistry
+3090006,Direct For Mathematical & Physical Scien,Division Of Chemistry
+3090007,Direct For Mathematical & Physical Scien,Division Of Chemistry
+3090102,Direct For Mathematical & Physical Scien,Division Of Chemistry
+3090105,Direct For Mathematical & Physical Scien,Division Of Chemistry
+3090106,Direct For Mathematical & Physical Scien,Division Of Chemistry
+3090108,Direct For Mathematical & Physical Scien,Division Of Chemistry
+3090300,Direct For Mathematical & Physical Scien,Division Of Chemistry
+3090302,Direct For Mathematical & Physical Scien,Division Of Chemistry
+3090304,Direct For Mathematical & Physical Scien,Division Of Chemistry
+3090306,Direct For Mathematical & Physical Scien,Division Of Chemistry
+3090308,Direct For Mathematical & Physical Scien,Division Of Chemistry
+4000000,"Direct For Social, Behav & Economic Scie","Direct For Social, Behav & Economic Scie"
+4000001,"Direct For Social, Behav & Economic Scie","Direct For Social, Behav & Economic Scie"
+4000003,"Direct For Social, Behav & Economic Scie","Direct For Social, Behav & Economic Scie"
+4010000,"Direct For Social, Behav & Economic Scie",SBE Off Of Multidisciplinary Activities
+4010300,"Direct For Social, Behav & Economic Scie",SBE Off Of Multidisciplinary Activities
+4010400,"Direct For Social, Behav & Economic Scie",SBE Off Of Multidisciplinary Activities
+4010500,"Direct For Social, Behav & Economic Scie",SBE Off Of Multidisciplinary Activities
+4010600,"Direct For Social, Behav & Economic Scie",SBE Off Of Multidisciplinary Activities
+4010700,"Direct For Social, Behav & Economic Scie",SBE Off Of Multidisciplinary Activities
+4010800,"Direct For Social, Behav & Economic Scie",SBE Off Of Multidisciplinary Activities
+4010900,"Direct For Social, Behav & Economic Scie",SBE Off Of Multidisciplinary Activities
+4030000,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030001,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030002,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030004,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030005,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030006,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030007,"Directorate for Social, Behavioral & Economic Sciences",National Center for Science and Engineering Statistics.
+4030100,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030101,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030102,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030103,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030200,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030201,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030202,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030203,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030300,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030301,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030302,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030303,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030304,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030305,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030400,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030401,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030402,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030403,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4030404,"Direct For Social, Behav & Economic Scie",National Center For S&E Statistics
+4040000,"Direct For Social, Behav & Economic Scie",Division Of Behavioral and Cognitive Sci
+4040200,"Direct For Social, Behav & Economic Scie",Division Of Behavioral and Cognitive Sci
+4040400,"Direct For Social, Behav & Economic Scie",Division Of Behavioral and Cognitive Sci
+4040500,"Direct For Social, Behav & Economic Scie",Division Of Behavioral and Cognitive Sci
+4040600,"Direct For Social, Behav & Economic Scie",Division Of Behavioral and Cognitive Sci
+4040700,"Direct For Social, Behav & Economic Scie",Division Of Behavioral and Cognitive Sci
+4040800,"Direct For Social, Behav & Economic Scie",Division Of Behavioral and Cognitive Sci
+4050000,"Direct For Social, Behav & Economic Scie",Divn Of Social and Economic Sciences
+4050100,"Direct For Social, Behav & Economic Scie",Divn Of Social and Economic Sciences
+4050200,"Direct For Social, Behav & Economic Scie",Divn Of Social and Economic Sciences
+4050300,"Direct For Social, Behav & Economic Scie",Divn Of Social and Economic Sciences
+4080101,"Direct For Social, Behav & Economic Scie",""
+4080102,"Direct For Social, Behav & Economic Scie",""
+4080203,"Direct For Social, Behav & Economic Scie",""
+5000000,Direct For Computer & Info Scie & Enginr,Direct For Computer & Info Scie & Enginr
+5000100,Direct For Computer & Info Scie & Enginr,Direct For Computer & Info Scie & Enginr
+5000400,Direct For Computer & Info Scie & Enginr,Direct For Computer & Info Scie & Enginr
+5010000,Direct For Computer & Info Scie & Enginr,Division of Computing and Communication Foundations
+5010001,Directorate for Computer & Information Science & Engineering,Division of Computer and Communication Foundations
+5010002,Direct For Computer & Info Scie & Enginr,Division of Computing and Communication Foundations
+5010003,Direct For Computer & Info Scie & Enginr,Division of Computing and Communication Foundations
+5010004,Direct For Computer & Info Scie & Enginr,Division of Computing and Communication Foundations
+5010005,Direct For Computer & Info Scie & Enginr,Division of Computing and Communication Foundations
+5010008,Direct For Computer & Info Scie & Enginr,Division of Computing and Communication Foundations
+5010009,Direct For Computer & Info Scie & Enginr,Division of Computing and Communication Foundations
+5010100,Direct For Computer & Info Scie & Enginr,Division of Computing and Communication Foundations
+5010200,Direct For Computer & Info Scie & Enginr,Division of Computing and Communication Foundations
+5010300,Direct For Computer & Info Scie & Enginr,Division of Computing and Communication Foundations
+5010400,Direct For Computer & Info Scie & Enginr,Division of Computing and Communication Foundations
+5010500,Direct For Computer & Info Scie & Enginr,Division of Computing and Communication Foundations
+5010600,Direct For Computer & Info Scie & Enginr,Division of Computing and Communication Foundations
+5010700,Direct For Computer & Info Scie & Enginr,Division of Computing and Communication Foundations
+5010800,Direct For Computer & Info Scie & Enginr,Division of Computing and Communication Foundations
+5020000,Direct For Computer & Info Scie & Enginr,Div Of Information & Intelligent Systems
+5020001,Direct For Computer & Info Scie & Enginr,Div Of Information & Intelligent Systems
+5020100,Direct For Computer & Info Scie & Enginr,Div Of Information & Intelligent Systems
+5020200,Direct For Computer & Info Scie & Enginr,Div Of Information & Intelligent Systems
+5020300,Direct For Computer & Info Scie & Enginr,Div Of Information & Intelligent Systems
+5020400,Direct For Computer & Info Scie & Enginr,Div Of Information & Intelligent Systems
+5020500,Direct For Computer & Info Scie & Enginr,Div Of Information & Intelligent Systems
+5020600,Direct For Computer & Info Scie & Enginr,Div Of Information & Intelligent Systems
+5040003,Direct For Computer & Info Scie & Enginr,Division of Microelectronic Information Processing Systems
+5040101,Direct For Computer & Info Scie & Enginr,Division of Microelectronic Information Processing Systems
+5040106,Direct For Computer & Info Scie & Enginr,Division of Microelectronic Information Processing Systems
+5040500,Direct For Computer & Info Scie & Enginr,Division of Microelectronic Information Processing Systems
+5050000,Direct For Computer & Info Scie & Enginr,Division Of Computer and Network Systems
+5050100,Direct For Computer & Info Scie & Enginr,Division Of Computer and Network Systems
+5050101,Direct For Computer & Info Scie & Enginr,Division Of Computer and Network Systems
+5050102,Direct For Computer & Info Scie & Enginr,Division Of Computer and Network Systems
+5050103,Direct For Computer & Info Scie & Enginr,Division Of Computer and Network Systems
+5050200,Direct For Computer & Info Scie & Enginr,Division Of Computer and Network Systems
+5050201,Direct For Computer & Info Scie & Enginr,Division Of Computer and Network Systems
+5050202,Direct For Computer & Info Scie & Enginr,Division Of Computer and Network Systems
+5060000,Direct For Computer & Info Scie & Enginr,DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+5060100,Direct For Computer & Info Scie & Enginr,DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+5060200,Direct For Computer & Info Scie & Enginr,DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+5060300,Direct For Computer & Info Scie & Enginr,DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+5060400,Direct For Computer & Info Scie & Enginr,DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+5060500,Direct For Computer & Info Scie & Enginr,DIVISION OF EXPERIMENTAL & INTEG ACTIVIT
+5070000,Direct For Computer & Info Scie & Enginr,""
+5080000,Direct For Computer & Info Scie & Enginr,""
+5090000,Direct For Computer & Info Scie & Enginr,Div Of Advanced Cyberinfrastructure
+5100000,Direct For Computer & Info Scie & Enginr,CISE Information Technology Research
+5100003,Direct For Computer & Info Scie & Enginr,CISE Information Technology Research
+6000000,Directorate For Geosciences,Directorate For Geosciences
+6000001,Directorate For Geosciences,Directorate For Geosciences
+6000009,Directorate For Geosciences,Directorate For Geosciences
+6010000,Directorate For Geosciences,ICER
+6010101,Directorate For Geosciences,ICER
+6010105,Directorate For Geosciences,ICER
+6020000,Directorate For Geosciences,Div Atmospheric & Geospace Sciences
+6020100,Directorate For Geosciences,Div Atmospheric & Geospace Sciences
+6020102,Directorate For Geosciences,Div Atmospheric & Geospace Sciences
+6020104,Directorate For Geosciences,Div Atmospheric & Geospace Sciences
+6020105,Directorate For Geosciences,Div Atmospheric & Geospace Sciences
+6020106,Directorate For Geosciences,Div Atmospheric & Geospace Sciences
+6020107,Directorate For Geosciences,Div Atmospheric & Geospace Sciences
+6020108,Directorate For Geosciences,Div Atmospheric & Geospace Sciences
+6020200,Directorate For Geosciences,Div Atmospheric & Geospace Sciences
+6020201,Directorate For Geosciences,Div Atmospheric & Geospace Sciences
+6020202,Directorate For Geosciences,Div Atmospheric & Geospace Sciences
+6020203,Directorate For Geosciences,Div Atmospheric & Geospace Sciences
+6020204,Directorate For Geosciences,Div Atmospheric & Geospace Sciences
+6020300,Directorate For Geosciences,Div Atmospheric & Geospace Sciences
+6020500,Directorate For Geosciences,Div Atmospheric & Geospace Sciences
+6030000,Directorate For Geosciences,Division Of Earth Sciences
+6030002,Directorate For Geosciences,Division Of Earth Sciences
+6030003,Directorate For Geosciences,Division Of Earth Sciences
+6030004,Directorate For Geosciences,Division Of Earth Sciences
+6030006,Directorate For Geosciences,Division Of Earth Sciences
+6030100,Directorate For Geosciences,Division Of Earth Sciences
+6030101,Directorate For Geosciences,Division Of Earth Sciences
+6030102,Directorate For Geosciences,Division Of Earth Sciences
+6030103,Directorate For Geosciences,Division Of Earth Sciences
+6030104,Directorate For Geosciences,Division Of Earth Sciences
+6030106,Directorate For Geosciences,Division Of Earth Sciences
+6030107,Directorate For Geosciences,Division Of Earth Sciences
+6030108,Directorate For Geosciences,Division Of Earth Sciences
+6030109,Directorate For Geosciences,Division Of Earth Sciences
+6030200,Directorate For Geosciences,Division Of Earth Sciences
+6030201,Directorate For Geosciences,Division Of Earth Sciences
+6030202,Directorate For Geosciences,Division Of Earth Sciences
+6030203,Directorate For Geosciences,Division Of Earth Sciences
+6030204,Directorate For Geosciences,Division Of Earth Sciences
+6030205,Directorate For Geosciences,Division Of Earth Sciences
+6030206,Directorate For Geosciences,Division Of Earth Sciences
+6030207,Directorate For Geosciences,Division Of Earth Sciences
+6030208,Directorate For Geosciences,Division Of Earth Sciences
+6040000,Directorate For Geosciences,Division Of Ocean Sciences
+6040100,Directorate For Geosciences,Division Of Ocean Sciences
+6040101,Directorate For Geosciences,Division Of Ocean Sciences
+6040102,Directorate For Geosciences,Division Of Ocean Sciences
+6040103,Directorate For Geosciences,Division Of Ocean Sciences
+6040104,Directorate For Geosciences,Division Of Ocean Sciences
+6040200,Directorate For Geosciences,Division Of Ocean Sciences
+6040201,Directorate For Geosciences,Division Of Ocean Sciences
+6040202,Directorate For Geosciences,Division Of Ocean Sciences
+6040203,Directorate For Geosciences,Division Of Ocean Sciences
+6040204,Directorate For Geosciences,Division Of Ocean Sciences
+6040205,Directorate For Geosciences,Division Of Ocean Sciences
+6040300,Directorate For Geosciences,Division Of Ocean Sciences
+6040301,Directorate For Geosciences,Division Of Ocean Sciences
+6040302,Directorate For Geosciences,Division Of Ocean Sciences
+6040303,Directorate For Geosciences,Division Of Ocean Sciences
+6040304,Directorate For Geosciences,Division Of Ocean Sciences
+6040305,Directorate For Geosciences,Division Of Ocean Sciences
+6050000,Directorate For Geosciences,Division Of Polar Progrms
+6070000,Directorate For Geosciences,""
+6090000,Directorate For Geosciences,Division Of Polar Programs
+6090100,Directorate For Geosciences,Division Of Polar Programs
+6090200,Directorate For Geosciences,Division Of Polar Programs
+6090300,Directorate For Geosciences,Division Of Polar Programs
+6090400,Directorate For Geosciences,Division Of Polar Programs
+7000000,Directorate For Engineering,Directorate For Engineering
+7010000,Directorate For Engineering,"Div Of Electrical, Commun & Cyber Sys"
+7020000,Directorate For Engineering,"Div Of Chem, Bioeng, Env, & Transp Sys"
+7030000,Directorate For Engineering,"Div Of Civil, Mechanical, & Manufact Inn"
+7030004,Directorate For Engineering,"Div Of Civil, Mechanical, & Manufact Inn"
+7030008,Directorate For Engineering,"Div Of Civil, Mechanical, & Manufact Inn"
+7030009,Directorate For Engineering,"Div Of Civil, Mechanical, & Manufact Inn"
+7030100,Directorate For Engineering,"Div Of Civil, Mechanical, & Manufact Inn"
+7040000,Directorate For Engineering,Emerging Frontiers & Multidisciplinary Activities
+7040001,Directorate For Engineering,Emerging Frontiers & Multidisciplinary Activities
+7040009,Directorate For Engineering,Emerging Frontiers & Multidisciplinary Activities
+7050000,Directorate For Engineering,Div Of Engineering Education and Centers
+7050006,Directorate For Engineering,Div Of Engineering Education and Centers
+7050105,Directorate For Engineering,Div Of Engineering Education and Centers
+7050200,Directorate For Engineering,Div Of Engineering Education and Centers
+7060000,Directorate For Engineering,Division Of Design & Manufacturing Innov
+7070000,Directorate For Engineering,Div Of Industrial Innovation & Partnersh
+7070003,Directorate For Engineering,Div Of Industrial Innovation & Partnersh
+7070101,Directorate For Engineering,Div Of Industrial Innovation & Partnersh
+7070103,Directorate For Engineering,Div Of Industrial Innovation & Partnersh
+7070105,Directorate For Engineering,Div Of Industrial Innovation & Partnersh
+7070200,Directorate For Engineering,Div Of Industrial Innovation & Partnersh
+7080000,Directorate For Engineering,""
+7080005,Directorate For Engineering,""
+7080100,Directorate For Engineering,""
+7080200,Directorate For Engineering,""
+7080300,Directorate For Engineering,""
+7080500,Directorate For Engineering,""
+8000000,Direct For Biological Sciences,Direct For Biological Sciences
+8010000,Direct For Biological Sciences,Division Of Environmental Biology
+8010206,Direct For Biological Sciences,Division Of Environmental Biology
+8010207,Direct For Biological Sciences,Division Of Environmental Biology
+8010208,Direct For Biological Sciences,Division Of Environmental Biology
+8010209,Direct For Biological Sciences,Division Of Environmental Biology
+8010808,Direct For Biological Sciences,Division Of Environmental Biology
+8020100,Direct For Biological Sciences,""
+8020103,Direct For Biological Sciences,""
+8020200,Direct For Biological Sciences,""
+8020203,Direct For Biological Sciences,""
+8020204,Direct For Biological Sciences,""
+8020206,Direct For Biological Sciences,""
+8030000,Direct For Biological Sciences,Division of Behavioral & Neural Sciences
+8030101,Direct For Biological Sciences,Division of Behavioral & Neural Sciences
+8030108,Direct For Biological Sciences,Division of Behavioral & Neural Sciences
+8040000,Direct For Biological Sciences,Emerging Frontiers
+8040100,Direct For Biological Sciences,Emerging Frontiers
+8040103,Direct For Biological Sciences,Emerging Frontiers
+8040200,Direct For Biological Sciences,Emerging Frontiers
+8040206,Direct For Biological Sciences,Emerging Frontiers
+8040300,Direct For Biological Sciences,Emerging Frontiers
+8040303,Direct For Biological Sciences,Emerging Frontiers
+8060000,Direct For Biological Sciences,Division of Cellular Biosciences
+8060200,Direct For Biological Sciences,Division of Cellular Biosciences
+8070000,Direct For Biological Sciences,Div Of Molecular and Cellular Bioscience
+8070100,Direct For Biological Sciences,Div Of Molecular and Cellular Bioscience
+8070400,Direct For Biological Sciences,Div Of Molecular and Cellular Bioscience
+8070500,Direct For Biological Sciences,Div Of Molecular and Cellular Bioscience
+8070600,Direct For Biological Sciences,Div Of Molecular and Cellular Bioscience
+8070700,Direct For Biological Sciences,Div Of Molecular and Cellular Bioscience
+8070800,Direct For Biological Sciences,Div Of Molecular and Cellular Bioscience
+8080000,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080100,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080101,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080102,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080103,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080200,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080201,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080202,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080203,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080204,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080205,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080206,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080207,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080208,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080300,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080301,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080302,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080303,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080304,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080305,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080306,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080307,Direct For Biological Sciences,Div Of Biological Infrastructure
+8080308,Direct For Biological Sciences,Div Of Biological Infrastructure
+8090000,Direct For Biological Sciences,Division Of Integrative Organismal Systems
+8090100,Direct For Biological Sciences,Division Of Integrative Organismal Systems
+8090200,Direct For Biological Sciences,Division Of Integrative Organismal Sys
+8090300,Direct For Biological Sciences,Division Of Integrative Organismal Sys
+8090400,Direct For Biological Sciences,Division Of Integrative Organismal Sys
+8090500,Direct For Biological Sciences,Division Of Integrative Organismal Systems
+8090600,Direct For Biological Sciences,Division Of Integrative Organismal Systems
+8090700,Direct For Biological Sciences,Division Of Integrative Organismal Systems
+9030004,"","DIVISION OF MATERIALS DEVELOPMENT,"
+10000000,"Office of Budget, Finance, & Award Management","Office of Budget, Finance, & Award Management"
+10010000,"Office of Budget, Finance, & Award Management",Budget Division
+10010709,"Office of Budget, Finance, & Award Management",Budget Division
+10020000,"Office of Budget, Finance, & Award Management",Division of Financial Management
+10020300,"Office of Budget, Finance, & Award Management",Division of Financial Management
+10020301,"Office of Budget, Finance, & Award Management",Division of Financial Management
+10030000,"Office of Budget, Finance, & Award Management",Division of Grants and Agreements
+10040000,"Office of Budget, Finance, & Award Management",Division of Acquisition & Cooperative Support
+10040001,"Office of Budget, Finance, & Award Management",Division of Acquisition & Cooperative Support
+10050000,"Office of Budget, Finance, & Award Management",Division of Institution & Award Support
+10060000,"Office of Budget, Finance, & Award Management",Large Facilities Office
+11000000,Direct For Education and Human Resources,Direct For Education and Human Resources
+11000001,Direct For Education and Human Resources,Direct For Education and Human Resources
+11010000,Direct For Education and Human Resources,Division Of Graduate Education
+11010001,Direct For Education and Human Resources,Division Of Graduate Education
+11010100,Direct For Education and Human Resources,Division Of Graduate Education
+11010101,Direct For Education and Human Resources,Division Of Graduate Education
+11010102,Direct For Education and Human Resources,Division Of Graduate Education
+11010103,Direct For Education and Human Resources,Division Of Graduate Education
+11010104,Direct For Education and Human Resources,Division Of Graduate Education
+11010201,Direct For Education and Human Resources,Division Of Graduate Education
+11020000,Direct For Education and Human Resources,Div Of Elem Secondary & Informal Sci Ed
+11040000,Direct For Education and Human Resources,Division Of Undergraduate Education
+11040003,Direct For Education and Human Resources,Division Of Undergraduate Education
+11040100,Direct For Education and Human Resources,Division Of Undergraduate Education
+11040101,Direct For Education and Human Resources,Division Of Undergraduate Education
+11040200,Direct For Education and Human Resources,Division Of Undergraduate Education
+11040201,Direct For Education and Human Resources,Division Of Undergraduate Education
+11040202,Direct For Education and Human Resources,Division Of Undergraduate Education
+11040300,Direct For Education and Human Resources,Division Of Undergraduate Education
+11050000,Direct For Education and Human Resources,"Div Of Rsch, Evaluation and Communicatio"
+11060000,Direct For Education and Human Resources,Division Of Human Resource Development
+11060100,Direct For Education and Human Resources,Division Of Human Resource Development
+11060200,Direct For Education and Human Resources,Division Of Human Resource Development
+11060300,Direct For Education and Human Resources,Division Of Human Resource Development
+11060301,Direct For Education and Human Resources,Division Of Human Resource Development
+11060302,Direct For Education and Human Resources,Division Of Human Resource Development
+11060400,Direct For Education and Human Resources,Division Of Human Resource Development
+11060500,Direct For Education and Human Resources,Division Of Human Resource Development
+11070000,Direct For Education and Human Resources,DIVISION OF EDUCATIONAL SYSTEM REFORM
+11070100,Direct For Education and Human Resources,DIVISION OF EDUCATIONAL SYSTEM REFORM
+11070200,Direct For Education and Human Resources,DIVISION OF EDUCATIONAL SYSTEM REFORM
+11090000,Direct For Education and Human Resources,Division Of Research On Learning
+11090100,Direct For Education and Human Resources,Division Of Research On Learning
+11090300,Direct For Education and Human Resources,Division Of Research On Learning
+12000000,National Coordination Office,National Coordination Office
+13000000,Natl Nanotechnology Coordinating Office,Natl Nanotechnology Coordinating Office
+14010000,Office Of Polar Programs,Arctic Sciences Division
+17090201,"",""

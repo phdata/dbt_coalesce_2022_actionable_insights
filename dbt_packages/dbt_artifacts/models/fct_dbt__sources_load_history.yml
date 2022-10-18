@@ -1,0 +1,18 @@
+version: 2
+
+models:
+- name: fct_dbt__sources_load_history
+  description: Fact model that contains data about the load history of our sources.
+  columns:
+  - name: command_invocation_id
+    description: '{{ doc("command_invocation_id") }}'
+    tests:
+      - dbt_constraints.foreign_key:
+          pk_table_name: ref('fct_dbt__invocations')
+          pk_column_name: command_invocation_id
+  - name: source_execution_id
+    description: '{{ doc("source_execution_id") }}'
+    tests:
+      - dbt_constraints.foreign_key:
+          pk_table_name: ref('dim_dbt__sources')
+          pk_column_name: source_execution_id

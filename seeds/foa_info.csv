@@ -1,0 +1,201 @@
+"code","name"
+10,Physical Sciences
+11,Astronomy
+12,Chemistry
+13,Physics
+14,Condensed Matter Physics
+15,"Metals, Ceramics & Electronic "
+16,Solid State Chem and Polymers
+17,Materials Theory
+18,Materials NEC
+19,Physical Sciences NEC
+20,Mathematics
+21,Mathematics
+30,Computer Science & Engineering
+31,Computer Science & Engineering
+40,Environmental Sciences
+41,Atmospheric Sciences
+42,Geological Sciences
+43,Biological Oceanography
+44,Physical & Chemical Oceanograp
+45,Ecology
+49,Environmental NEC
+50,Engineering
+51,Engineering-Aeronautical
+52,Engineering-Astronautical
+53,Engineering-Chemical
+54,Engineering-Civil
+55,Engineering-Electrical
+56,Engineering-Mechanical
+57,Engineering-Metallurgy & Mater
+58,Engineering-Engineering Techno
+59,Engineering NEC
+60,Life Sciences
+61,Life Science Biological
+62,Life Science Clinical Medical
+63,Life Science Other Medical
+64,Environmental Biology
+65,Agricultural
+69,Life Sciences NEC
+70,Psychology
+71,Psychology Biological Aspects
+72,Psychology Social Aspects
+79,Psychology Sciences NEC
+80,Social Sciences
+81,Anthropology
+82,Economics
+83,History
+84,Linguistics
+85,Political Sciences
+86,Sociology
+87,Law
+88,Geography
+89,Social Sciences NEC
+90,Other Sciences
+91,Science Technology Assess
+92,Science Policy
+98,Multi-Disciplinary
+99,Other Applications NEC
+904,Science Information
+908,Urban Problems
+912,Computer Science
+9999,DATA NOT AVAILABLE
+100000,Special Interest
+101000,Curriculum Development
+102000,Data Banks
+103000,Ethical Considerations
+104000,Information Systems
+105000,Manpower & Training
+106000,Materials Research
+107000,Operations Research
+108000,Software Development
+109000,Structural Technology
+110000,Technology Transfer
+111000,Science Policy
+112000,System Theory
+113000,Animal Welfare
+114000,Endangered Species
+115000,Historical Sites
+116000,Human Subjects
+117000,Marine Mammal Protection
+118000,Pollution Control
+119000,National Environmental Policy 
+120000,Research Involving Recombinant
+121000,Proprietary & Privileged Infor
+200000,Interagency
+201000,Agriculture
+202000,Atmospheric Science-ICAS
+203000,Health
+204000,Oceanography
+205000,Space
+206000,Telecommunications
+207000,Transportation
+208000,Water Resources
+300000,Problem-Oriented
+301000,Aging (Human)
+302000,Biological Pest Control
+303000,Conflict Resolution
+304000,Disaster & Natural Hazard
+304010,Earthquake
+304020,Extreme Wind
+304030,Flood
+304040,Fire
+304050,Accident
+305000,Drug Abuse
+305010,Drug Abuse Effects Biol
+305030,Drug Abuse Prevention
+306000,Energy Research & Resources
+307000,Human Rights-Minority Rel
+308000,Industrial Technology
+309000,Land Use & Planning
+310000,Municipal Service
+311000,Polar Programs-Related
+312000,Population
+313000,Regional & Environmental
+313010,Air Pollution
+313020,Noise Pollution
+313030,Solid Waste Disposal
+313040,Water Pollution
+314000,Rural Development
+315000,Social Data & Comm Development
+316000,Trace Contaminants
+317000,Urban Technology
+318000,Weather Modifications
+319000,Climate Related Activities
+400000,Industry University - Co-op
+510100,Global Carbon Cycle
+510101,Climate Models
+510102,Role-Terrestrial Ecosystem
+510103,Physical Chemical Studies
+510104,Past Carbon Dioxide Level
+510200,Economic Instability
+510201,Domestic Economic Modeling
+510202,International Economic Modelin
+510203,Model Validation
+510204,Data Banks & Software Design
+510205,International Economic Coopera
+510300,Transformation of Nitrogen
+510301,Structure & Function
+510302,Energetics & Thermodynamc
+510303,Kinetics
+510304,Electron & Energy Sources
+510305,Photocatalysis
+510400,Physically Disadvantaged
+510401,Nerve Growth
+510402,Biomaterials-Short & Long Term
+510403,Engineering & Computer Science
+510404,Sensry Physiology & Perc
+510600,Integrated Pest Management
+510601,Biology of Pest Organisms
+510602,Ecosystem Dynamics
+510603,Synthetic Organic Chemistry
+510604,Analytic Tools
+510700,Deep Solution Mining
+510701,Chemical Reaction Systems
+510702,Reservoir Engineering
+510703,Rock Fracture Mechanics
+510704,Geophysical Monitoring
+510800,Deep Mineral Deposits
+510801,Geodynamics & Mettallogen
+510802,Rock Properties-Mineral
+510803,Mineral Leaching Process
+510804,Mineral Economics
+511300,Nutrition
+511301,Trace Element Content
+511302,Role-Trace Element Component
+511303,Toxicology
+511600,Weather Modification Research
+511601,Cloud & Precipitatn Process
+511602,Inadvertent Weather Effect
+511603,Societal Aspects
+512000,Population Redistribution
+512001,Population Redistribution Mode
+512002,Industrial Siting Models
+512003,Collective Decision-Making
+512004,Analytical Procedures
+512200,Advanced Measurement Investmen
+512201,Improved Transient Measure
+512202,Improved Resolution & Sen
+512203,Improved Sensitivity-Minitr
+512204,Nondestructive Measurement
+512205,Xray & Electron Beam Lith
+512206,System Interaction
+520500,Computer Security & Privacy
+520900,Substitute Materials
+521000,Mineral Benefication
+521100,Waste Resources
+521200,Salt Tolerant Plants
+521400,Plant Productivity
+521500,Ozone & The Stratosphere
+521700,Marine Resources
+521800,Shelf & Esturine Ecosystem
+521900,Mass Media & Socialization
+522100,High Technology Materials
+522300,Man-Machine Communication
+522400,Information Systems
+522500,Early Technology
+600000,Facilities
+601000,Facilities - Repair/Renovation
+602000,Facilities - Replacement
+603000,Facilities - Combination
+9900000,DATA NOT AVAILABLE

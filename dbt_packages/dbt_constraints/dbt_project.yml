@@ -1,0 +1,35 @@
+
+name: 'dbt_constraints'
+version: '0.0.1'
+config-version: 2
+
+# These macros depend on the results and graph objects in dbt >=0.19.0
+# and has been tested with dbt >=1.0.0
+require-dbt-version: ">=1.0.0"
+
+profile: 'dbt_constraints'
+
+# All tests and macros in this packages are found in the macro path
+macro-paths: ["macros"]
+clean-targets:         # directories to be removed by `dbt clean`
+  - "logs"
+  - "target"
+  - "dbt_packages"
+
+# This package adds an automatic hook to create constraints
+on-run-end:
+  - "{{ dbt_constraints.create_constraints() }}"
+
+# Global variables
+vars:
+  # The package can be temporarily disabled using this variable
+  dbt_constraints_enabled: true
+
+  # The package can also add constraints on sources if you have sufficient privileges
+  dbt_constraints_sources_enabled: false
+
+  # You can also be specific on which constraints are enabled for sources
+  # You must also enable dbt_constraints_sources_enabled above
+  dbt_constraints_sources_pk_enabled: true
+  dbt_constraints_sources_uk_enabled: true
+  dbt_constraints_sources_fk_enabled: true

@@ -1,0 +1,19 @@
+version: 2
+
+sources:
+  - name: raw_grants
+    database: raw_data
+    schema: grants
+    tables:
+      - name: foa_info
+      - name: foa_info_awards
+      - name: institution
+      - name: institution_awards
+      - name: awards
+      - name: investigator_awards
+      - name: organization
+      - name: investigator
+      - name: program_element_awards
+      - name: program_element
+      - name: program_reference_awards
+      - name: program_reference

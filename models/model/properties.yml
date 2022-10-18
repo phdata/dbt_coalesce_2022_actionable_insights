@@ -1,0 +1,96 @@
+version: 2
+
+models:
+  # dim_awards config
+  - name: dim_awards
+    description: This is the dimension table of information about the awards
+    columns:
+      - name: award_key
+        tests:
+          - dbt_constraints.primary_key
+
+  # dim_dates config
+  - name: dim_dates
+    description: This is a common date dimmension
+    columns:
+      - name: date_day
+        tests:
+          - dbt_constraints.primary_key
+
+  # dim_foa_info config
+  - name: dim_foa_info
+    description: This is the dimension table of information about the foa_info
+    columns:
+      - name: foa_info_key
+        tests:
+          - dbt_constraints.primary_key
+
+  # dim_institution config
+  - name: dim_institution
+    description: This is the dimension table of information about the institution
+    columns:
+      - name: institution_key
+        tests:
+          - dbt_constraints.primary_key
+
+  # dim_organization config
+  - name: dim_organization
+    description: This is the dimension table of information about the organization
+    columns:
+      - name: organization_key
+        tests:
+          - dbt_constraints.primary_key
+
+  # dim_program_element config
+  - name: dim_program_element
+    description: This is the dimension table of information about the program_element
+    columns:
+      - name: program_element_key
+        tests:
+          - dbt_constraints.primary_key
+
+  # dim_program_reference config
+  - name: dim_program_reference
+    description: This is the dimension table of information about the program_reference
+    columns:
+      - name: program_reference_key
+        tests:
+          - dbt_constraints.primary_key
+
+  # fct_awards
+  - name: fct_awards
+    description: This is the fact table of amounts for the awards, all other tables join to this one.
+    columns:
+      - name: fct_award_key
+        tests:
+          - dbt_constraints.primary_key
+      - name: award_key
+        tests:
+          - dbt_constraints.foreign_key:
+              pk_table_name: ref('dim_awards')
+              pk_column_name: award_key
+      - name: institution_key
+        tests:
+          - dbt_constraints.foreign_key:
+              pk_table_name: ref('dim_institution')
+              pk_column_name: institution_key
+      - name: organization_key
+        tests:
+          - dbt_constraints.foreign_key:
+              pk_table_name: ref('dim_organization')
+              pk_column_name: organization_key
+      - name: program_element_key
+        tests:
+          - dbt_constraints.foreign_key:
+              pk_table_name: ref('dim_program_element')
+              pk_column_name: program_element_key
+      - name: foa_info_key
+        tests:
+          - dbt_constraints.foreign_key:
+              pk_table_name: ref('dim_foa_info')
+              pk_column_name: foa_info_key
+      - name: program_reference_key
+        tests:
+          - dbt_constraints.foreign_key:
+              pk_table_name: ref('dim_program_reference')
+              pk_column_name: program_reference_key

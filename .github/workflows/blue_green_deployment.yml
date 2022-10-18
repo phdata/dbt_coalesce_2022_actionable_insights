@@ -1,0 +1,26 @@
+name: Blue/Green Deployment
+
+# run this code any time there is a push
+# to the main branch
+on:
+    workflow_dispatch:
+        branches:
+            - 'main'
+    push:
+        branches:
+            - 'main'
+
+jobs:
+    build:
+        name: Execute dbt Cloud Job
+        runs-on: ubuntu-latest
+        steps:
+            - name: echo url
+              run: echo "https://cloud.getdbt.com/api/v2/accounts/${{ secrets.DBT_ACCOUNT }}/jobs/${{ secrets.DBT_JOB }}/run/"
+            #- name: Call dbt Cloud Job
+            #  run: |
+            #    curl --silent --write-out '%{http_code}' --fail --output /dev/null --request POST \
+            #         --url https://cloud.getdbt.com/api/v2/accounts/${{ secrets.DBT_ACCOUNT }}/jobs/${{ secrets.DBT_JOB }}/run/ \
+            #         --header 'Content-Type: application/json' \
+            #         --header 'Authorization: Token ${{ secrets.DBT_API_TOKEN }}' \
+            #         --data '{"cause":"Kicked off via GitHub Actions"}'

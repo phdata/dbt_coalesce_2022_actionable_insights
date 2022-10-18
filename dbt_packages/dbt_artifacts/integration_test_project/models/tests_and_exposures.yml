@@ -1,0 +1,24 @@
+version: 2
+
+models:
+  - name: non_incremental
+    description: "A normal, non incremental model"
+    columns:
+      - name: id
+        tests:
+          - not_null
+          - unique
+
+exposures:
+  - name: "ceo's imaginary dashboard"
+    type: dashboard
+    maturity: high
+    description: "ceo's favourite dashboard"
+    url: https://bi.tool/dashboards/1
+
+    depends_on:
+      - ref('non_incremental')
+
+    owner:
+      name: Claire from Data
+      email: data@jaffleshop.com
